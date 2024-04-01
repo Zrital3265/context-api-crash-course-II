@@ -4,6 +4,7 @@ import { CounterContext } from "./context/UserCounter";
 import Counter from "./components/Counter";
 
 function App() {
+  // consuming the content
   const counterState = useContext(CounterContext);
   console.log("Count", counterState);
   return (
@@ -11,7 +12,7 @@ function App() {
       <div>
         <div className="space-y-1 text-3xl text-center text-gray-950 ">
           {/* {count} */}
-          <h1>{counterState.Count}</h1>
+          <h1 className="text-white">{counterState.Count}</h1>
           <Counter />
           <Counter />
           <Counter />
