@@ -4,12 +4,13 @@ This repository contains the code and materials for a crash course on the Contex
 ### Overview
 In this crash course, we explore the Context API in React, a powerful feature for managing state at the application level and passing data through the component tree without having to manually pass props at every level.
 
-Contents
-crashCourse-I: This folder contains the basic counter project using context api.
+**Contents:**
 
-crashCourse-I.0: This folder  is where the Context API is implemented i.e. a basic cart checkout biling.
+__crashCourse-I:__ This folder contains the basic counter project using context api.
 
-crashCourse-II: This Folder contains a cart component that uses context API to toggle into dark and light mode.
+__crashCourse-I.0:__ This folder  is where the Context API is implemented i.e. a basic cart checkout biling.
+
+__crashCourse-II:__ This Folder contains a cart component that uses context API to toggle into dark and light mode.
 
 ### Getting Started
 To run the code locally, follow these steps:
