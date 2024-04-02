@@ -6,7 +6,9 @@ In this crash course, we explore the Context API in React, a powerful feature fo
 
 Contents
 crashCourse-I: This folder contains the basic counter project using context api.
+
 crashCourse-I.0: This folder  is where the Context API is implemented i.e. a basic cart checkout biling.
+
 crashCourse-II: This Folder contains a cart component that uses context API to toggle into dark and light mode.
 
 ### Getting Started
